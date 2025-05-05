@@ -68,7 +68,7 @@ This analysis can help:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-content-strategy.git
+   git clone https://github.com/anagha1112/Netflix_Content_Strategy_Analysis.git
    cd netflix-content-strategy
    
 
