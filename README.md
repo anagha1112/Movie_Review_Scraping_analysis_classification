@@ -41,7 +41,8 @@ To uncover insights about:
 - Content type distribution (movies vs shows)
 - Day-of-week analysis for release strategy
 - language-based viewership heatmaps
-- holidays trend 
+- holidays trend
+- note: some visualizations in this notebook using plotly can't see in github as it donot support dynamic visualizations using plotly. so to see that, need to clone and run in kaggle or colab or jupyter notebook.
 
 ---
 
